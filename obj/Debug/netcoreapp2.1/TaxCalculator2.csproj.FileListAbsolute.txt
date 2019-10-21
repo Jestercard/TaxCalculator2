@@ -1,0 +1,11 @@
+G:\Repositories\TaxCalculator2\bin\Debug\netcoreapp2.1\TaxCalculator2.deps.json
+G:\Repositories\TaxCalculator2\bin\Debug\netcoreapp2.1\TaxCalculator2.runtimeconfig.json
+G:\Repositories\TaxCalculator2\bin\Debug\netcoreapp2.1\TaxCalculator2.runtimeconfig.dev.json
+G:\Repositories\TaxCalculator2\bin\Debug\netcoreapp2.1\TaxCalculator2.dll
+G:\Repositories\TaxCalculator2\bin\Debug\netcoreapp2.1\TaxCalculator2.pdb
+G:\Repositories\TaxCalculator2\obj\Debug\netcoreapp2.1\TaxCalculator2.csprojAssemblyReference.cache
+G:\Repositories\TaxCalculator2\obj\Debug\netcoreapp2.1\TaxCalculator2.csproj.CoreCompileInputs.cache
+G:\Repositories\TaxCalculator2\obj\Debug\netcoreapp2.1\TaxCalculator2.AssemblyInfoInputs.cache
+G:\Repositories\TaxCalculator2\obj\Debug\netcoreapp2.1\TaxCalculator2.AssemblyInfo.cs
+G:\Repositories\TaxCalculator2\obj\Debug\netcoreapp2.1\TaxCalculator2.dll
+G:\Repositories\TaxCalculator2\obj\Debug\netcoreapp2.1\TaxCalculator2.pdb
